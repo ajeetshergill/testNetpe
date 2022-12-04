@@ -1,26 +1,30 @@
 {
   "files": {
-    "main.css": "/static/css/main.6ffd9575.chunk.css",
-    "main.js": "/static/js/main.356247fd.chunk.js",
-    "main.js.map": "/static/js/main.356247fd.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.3c1114a8.js",
-    "runtime-main.js.map": "/static/js/runtime-main.3c1114a8.js.map",
-    "static/js/2.9521d1b0.chunk.js": "/static/js/2.9521d1b0.chunk.js",
-    "static/js/2.9521d1b0.chunk.js.map": "/static/js/2.9521d1b0.chunk.js.map",
-    "static/js/3.73a09124.chunk.js": "/static/js/3.73a09124.chunk.js",
-    "static/js/3.73a09124.chunk.js.map": "/static/js/3.73a09124.chunk.js.map",
+    "main.css": "/static/css/main.4ddf2d00.chunk.css",
+    "main.js": "/static/js/main.530bbb33.chunk.js",
+    "main.js.map": "/static/js/main.530bbb33.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.3de2ed0b.js",
+    "runtime-main.js.map": "/static/js/runtime-main.3de2ed0b.js.map",
+    "static/js/2.c9b5194a.chunk.js": "/static/js/2.c9b5194a.chunk.js",
+    "static/js/2.c9b5194a.chunk.js.map": "/static/js/2.c9b5194a.chunk.js.map",
+    "static/js/3.7bf5fe5d.chunk.js": "/static/js/3.7bf5fe5d.chunk.js",
+    "static/js/3.7bf5fe5d.chunk.js.map": "/static/js/3.7bf5fe5d.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.6ffd9575.chunk.css.map": "/static/css/main.6ffd9575.chunk.css.map",
-    "static/js/2.9521d1b0.chunk.js.LICENSE.txt": "/static/js/2.9521d1b0.chunk.js.LICENSE.txt",
+    "static/css/main.4ddf2d00.chunk.css.map": "/static/css/main.4ddf2d00.chunk.css.map",
+    "static/js/2.c9b5194a.chunk.js.LICENSE.txt": "/static/js/2.c9b5194a.chunk.js.LICENSE.txt",
     "static/media/close.4a6201f2.svg": "/static/media/close.4a6201f2.svg",
+    "static/media/coinBNB.2965674a.svg": "/static/media/coinBNB.2965674a.svg",
+    "static/media/coinIBAT.a0198cf0.svg": "/static/media/coinIBAT.a0198cf0.svg",
+    "static/media/dropdown.2e5e7a5c.svg": "/static/media/dropdown.2e5e7a5c.svg",
     "static/media/logo.568a6dac.svg": "/static/media/logo.568a6dac.svg",
+    "static/media/tempbg.01aa5456.png": "/static/media/tempbg.01aa5456.png",
     "static/media/wallet-mm.6d14cba9.svg": "/static/media/wallet-mm.6d14cba9.svg",
     "static/media/wallet-wc.a1aae2e6.svg": "/static/media/wallet-wc.a1aae2e6.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.3c1114a8.js",
-    "static/js/2.9521d1b0.chunk.js",
-    "static/css/main.6ffd9575.chunk.css",
-    "static/js/main.356247fd.chunk.js"
+    "static/js/runtime-main.3de2ed0b.js",
+    "static/js/2.c9b5194a.chunk.js",
+    "static/css/main.4ddf2d00.chunk.css",
+    "static/js/main.530bbb33.chunk.js"
   ]
 }
